@@ -1,0 +1,124 @@
+html{
+    background-image: url(./photo-1597200381847-30ec200eeb9a.jpg);
+    background-size: cover;
+    border: 8px groove greenyellow;
+    background-repeat: no-repeat;
+    margin: 0px;
+}
+.flex-container{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+}
+.flex-item{
+    background-color: black;
+    border:  6px solid red;
+    border-radius: 60px;
+    padding: 30px;
+    width: 420px;
+    height: 100px;
+    text-align: center;
+}
+.flex-item1{
+    background-color: black;
+    border:  6px solid red;
+    border-radius: 60px;
+    padding: 30px;
+    width: 420px;
+    height: 50px;
+    position: absolute;
+    top: 30px;
+    left: 325px;
+    text-align: center;
+}
+.flex-item2{
+    background-color: black;
+    border:  6px solid red;
+    border-radius: 60px;
+    padding: 30px;
+    width: 420px;
+    height: 150px;
+    position: relative;
+  text-align: center;
+}
+.circle{
+    margin-top: 300px;
+    margin-left: 30px;
+   background-color:  rgb(11, 77, 11);
+   border-radius: 50%;
+   border: 5px solid grey;
+   width: 430px;
+   height: 430px;
+ text-align: center;
+}
+.table{
+    border: 8px dashed red;
+    position: absolute;
+    left: 800px;
+    top: 350px;
+}
+.menu{
+    background-color: black;
+    border: 6px solid red;
+    padding: 15px;
+    position: relative;
+    left: 450px;
+    top: 30px;
+    height: 70px;
+    width: 500px;
+    border-radius: 50px;
+    text-align: center;
+    font-style: italic;
+}
+.flex-cards{
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row;
+}
+.flex-item3{
+    background-color: aqua;
+    border-radius: 40px;
+    width: 350px;
+    height: 350px;
+    border: 4px solid green;
+}
+.flex-item4{
+    background-color: aqua;
+    border-radius: 40px;
+    width: 350px;
+    height: 350px;
+    border: 4px solid green;
+}
+.flex-item5{
+    background-color: aqua;
+    border-radius: 40px;
+    width: 350px;
+    height: 350px;
+    border: 4px solid green;
+}
+.flex-menu{
+    display: flex;
+    flex-flow: row;
+    justify-content: space-around;
+}
+.flex-item6{
+    background-color: aqua;
+    border-radius: 40px;
+    width: 350px;
+    height: 350px;
+    border: 4px solid green;
+}
+.flex-item7{
+    background-color: aqua;
+    border-radius: 40px;
+    width: 350px;
+    height: 350px;
+    border: 4px solid green;
+}
+.flex-item8{
+    background-color: aqua;
+    border-radius: 40px;
+    width: 400px;
+    height: 400px;
+    border: 4px solid green;
+}
